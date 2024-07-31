@@ -1,4 +1,4 @@
-Code frameworks for a variety of projects.  LLM/AI/ML journey is underway.  Look for additions soon!
+Code for LLM, RAG, oci, python and miscellany!
 
 <!---
 swiftclouddbs/swiftclouddbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
