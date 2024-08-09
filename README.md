@@ -1,4 +1,4 @@
-Code for LLM, RAG, oci, python and miscellany!
+Code for LLM, RAG, oci, python, etc.
 
 <!---
 swiftclouddbs/swiftclouddbs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
