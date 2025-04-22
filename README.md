@@ -1,6 +1,6 @@
 💡 Acropolis Alpha Seeker
 
-AI-Driven Options Strategy Discovery
+Options Strategy Discovery
 A smarter way to navigate the options market.
 
 🚀 What is Alpha Seeker?
