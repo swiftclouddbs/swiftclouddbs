@@ -1,9 +1,9 @@
-💡 AlphaSeeker
+💡 Acropolis Alpha Seeker
 
 AI-Driven Options Strategy Discovery
 A smarter way to navigate the options market.
 
-🚀 What is AlphaSeeker?
+🚀 What is Alpha Seeker?
 
 AlphaSeeker is a high-performance trade analysis engine designed to help traders, quant teams, and fintech platforms uncover option strategies worth attention — before the market does.
 
