@@ -1,4 +1,4 @@
-💡 ## Alpha Seeker
+💡 Alpha Seeker
 
 Options Strategy Discovery
 A smarter way to navigate the options market.
