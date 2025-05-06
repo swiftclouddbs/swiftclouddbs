@@ -33,6 +33,7 @@ Feature	Status
 🕵️ Strategy Detection (e.g. Credit Spreads)	✅ Ready
 📈 Trade Reporting	✅ Ready
 💡 LLM-based Trade Reasoning	🔨 In Development
+
 🌐 Example Output:
 
 [Strategy Detected]
@@ -42,6 +43,7 @@ Expiration: 2025-05-10
 Max Loss: $145
 Potential Credit: $55
 Risk/Reward Ratio: 0.38
+
 🧠 What’s Next?
 
 💬 Natural Language Query Support
@@ -50,11 +52,13 @@ Risk/Reward Ratio: 0.38
 (Iron Condors, Butterflies, Straddles...)
 📊 Visualization-ready Output
 (Plug-and-play for dashboards)
+
 🏦 Who is AlphaSeeker for?
 
 Quantitative Analysts — Scan large option universes for real trade ideas.
 Fintech Builders — Integrate strategy logic directly into your platforms.
 Portfolio Managers — Filter noisy chains into clear, risk-managed setups.
+
 💻 Get Involved
 
 Whether you're looking for:
@@ -62,7 +66,7 @@ Whether you're looking for:
 A trade idea engine
 A model for options strategy detection
 A foundation for AI-enhanced fintech tools
-AlphaSeeker is ready to evolve with you.
+AlphaSeeker is ready to evolve with you!
 
 ⚡️ Ready to explore?
 → Contact the team or watch this repo for updates.
