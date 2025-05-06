@@ -1,7 +1,7 @@
 <h1>💡 Alpha Seeker</h1>
 
 Options Strategy Discovery.
-A smarter way to navigate the options market.
+ A smarter way to navigate the options market.
 
 🚀 What is Alpha Seeker?
 
